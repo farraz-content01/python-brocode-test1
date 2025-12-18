@@ -21,13 +21,10 @@
 
 4. define virtual env (venv) for this project
 
-- go up one level > then, create virtual env
-
-  - `T:$ cd ..`
-  - `T:$ python -m venv .venv`
+- T:$ `python -m venv .venv`
 
 - next, Activate venv (Win)
-  - `T:$ .venv\Scripts\activate`
+  - T:$ `.venv\Scripts\activate`
 
 ### If you use VSCode, instead of Jupyter Notebook, follow the instruction below:
 
