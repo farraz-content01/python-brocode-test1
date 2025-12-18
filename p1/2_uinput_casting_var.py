@@ -25,17 +25,18 @@ print("")
 #TODO: Exercise 0 - user input and casting
 #! NOTE: input() returns a str - so we need to cast it to the desired type
 print("--Exercise 0: User Input and Casting--")
-name = input("Enter your name: ")  # input() returns a str
-age = int(input("Enter your age: "))  # casting str to intArkan
+name = input("Enter your name: ")  #? input() returns a str
+age = int(input("Enter your age: "))  # casting str to int
 # age = int(age)  # casting str to int
 age = age + 1  # after casting (str > int), NOW we can do MATH operations
 
 #! Different ways to print the output
 print("Hello " + name + "! Next year, you will be " + str(age) + " years old.")
 print(f"Hello {name}! Next year, you will be {age} years old.")  # using f-strings  
+#? f-strings -- available in Python 3.6+ > used for STRING interpolation
 print("Hello {}! Next year, you will be {} years old.".format(name, age))  # using str.format() method
 print("Hello %s! Next year, you will be %d years old." % (name, age))  # using str.format() method  
-print("")
+print("") # New line for better readability
 
 print("--Exercise 1: Rectangle Area Calc--")
 #! NB: input() returns a str - need to cast it to the 'int' / 'float' for MATH operations
@@ -51,7 +52,7 @@ item1 = input("Enter item 1: ")
 price1 = float(input("Enter price of item 1: "))  # casting str to float
 quantity1 = int(input("Enter quantity of item 1: "))  # casting str to int
 
-Total_cost1 = price1 * quantity1
+Total_cost1 = price1 * quantity1 #? float * int = float
 print("Total payment for " + item1 + " => $" + str(Total_cost1))  # casting float to str
 print(f"You have bought {quantity1} x {item1}(s) => Total payment: ${Total_cost1}")
 print("")
