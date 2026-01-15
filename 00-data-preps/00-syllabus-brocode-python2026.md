@@ -35,13 +35,13 @@ Preferensi editor: **VSCode** dengan tambahan ;
 ### 2. Python Basic + Sample Projects + Qt programming
 [⭐ = project]
 
-## 🧪 dec-2025-w4
+## 🧪 P1: dec-2025-w4
 - [x] #1   (00:00:00) python tutorial for beginners 🐍
 - [x] #2   (00:05:49) variables ❎
 - [x] #3   (00:16:05) type casting 💱
 - [x] #4   (00:21:15) user input ⌨️
   
-## 🧪 jan-2026-w3
+## 🧪 P2: jan-2026-w3
 
 - [ ] #5  (00:32:42) ⭐ madlibs game 📖
 - [ ] #6  (00:37:55) arithmetic & math 📐
@@ -55,7 +55,7 @@ Preferensi editor: **VSCode** dengan tambahan ;
 - [ ] #14 (01:39:08) string indexing ✂️
 - [ ] #15 (01:46:35) format specifiers 💬
 
-## 🧪 jan-2026-w4
+## 🧪 P3: jan-2026-w4
 
 - [ ] #16 (01:51:55) while loops ♾️
 - [ ] #17 (01:58:53) ⭐ compound interest calculator 💵
@@ -69,7 +69,7 @@ Preferensi editor: **VSCode** dengan tambahan ;
 - [ ] #25 (03:03:27) dictionaries 📙
 - [ ] #26 (03:11:33) ⭐ concession stand program 🍿
 
-## 🧪 feb-2026-w1
+## 🧪 P4: feb-2026-w1
 
 - [ ] #27 (03:19:42) random numbers 🎲
 - [ ] #28 (03:24:16) ⭐ number guessing game 🔢
@@ -86,7 +86,7 @@ Preferensi editor: **VSCode** dengan tambahan ;
 - [ ] #39 (05:02:13) modules 📨
 - [ ] #40 (05:08:51) scope resolution 🔬
   
-## 🧪 feb-2026-w2
+## 🧪 P5: feb-2026-w2
 
 - [ ] #41 (05:14:22) if name == 'main': 📥
 - [ ] #42 (05:23:34) ⭐ banking program 💰
@@ -101,7 +101,7 @@ Preferensi editor: **VSCode** dengan tambahan ;
 - [ ] #51 (07:21:10) polymorphism 🎭
 - [ ] #52 (07:29:15) duck typing 🦆
   
-## 🧪 feb-2026-w3
+## 🧪 P6: feb-2026-w3
 
 - [ ] #53 (07:33:34) static methods ⚡
 - [ ] #54 (07:39:31) class methods 🏫
@@ -117,7 +117,7 @@ Preferensi editor: **VSCode** dengan tambahan ;
 - [ ] #64 (09:05:03) multithreading 🧵
 - [ ] #65 (09:13:45) request API data ↩️
 
-## 🧪 feb-2026-w4
+## 🧪 P7: feb-2026-w4
 
 - [ ] #66 (09:22:19) PyQt5 GUI intro 🖥️
 - [ ] #67 (09:31:27) PyQt5 labels 🏷️
