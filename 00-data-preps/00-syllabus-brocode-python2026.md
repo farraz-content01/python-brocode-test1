@@ -1,6 +1,7 @@
 SYLLABUS
 
 ## 🧱 Python Full Course for free (2024)
+
 - Release YT: `Aug 20, 2024`
 - Python version: `3.12.++`
 
@@ -8,8 +9,9 @@ SYLLABUS
 
 - by Noval Agung Prayogo
   - Youtube: https://www.youtube.com/watch?v=ix9cRaBkVe0&list=PLZPZq0r_RZON03iKBjYOsOKr1-TD7z2lH
-  - blog: 
-  - repo: 
+  - blog:
+  - repo 1: https://github.com/PavanMudigonda/python-bro-code
+  - repo 2: https://github.com/PavanMudigonda/zero-to-ai
 - and others (online - offline).
   > _Use (Ctrl + click) to follow (open) the link._
 
@@ -33,21 +35,23 @@ Preferensi editor: **VSCode** dengan tambahan ;
 - [x] Extension **Jupyter**, untuk _interactive run program_ via editor.
 
 ### 2. Python Basic + Sample Projects + Qt programming
+
 [⭐ = project]
 
 ## 🧪 P1: dec-2025-w4
-- [x] #1   (00:00:00) python tutorial for beginners 🐍
-- [x] #2   (00:05:49) variables ❎
-- [x] #3   (00:16:05) type casting 💱
-- [x] #4   (00:21:15) user input ⌨️
-  
+
+- [x] #1 (00:00:00) python tutorial for beginners 🐍
+- [x] #2 (00:05:49) variables ❎
+- [x] #3 (00:16:05) type casting 💱
+- [x] #4 (00:21:15) user input ⌨️
+
 ## 🧪 P2: jan-2026-w3
 
-- [ ] #5  (00:32:42) ⭐ madlibs game 📖
-- [ ] #6  (00:37:55) arithmetic & math 📐
-- [ ] #7  (00:51:46) if statements 🤔
-- [ ] #8  (01:00:06) ⭐ calculator program 🧮
-- [ ] #9  (01:05:59) ⭐ weight conversion program 🏋️
+- [ ] #5 (00:32:42) ⭐ madlibs game 📖
+- [ ] #6 (00:37:55) arithmetic & math 📐
+- [ ] #7 (00:51:46) if statements 🤔
+- [ ] #8 (01:00:06) ⭐ calculator program 🧮
+- [ ] #9 (01:05:59) ⭐ weight conversion program 🏋️
 - [ ] #10 (01:09:59) ⭐ temperature conversion program 🌡️
 - [ ] #11 (01:13:58) logical operators 🌦️
 - [ ] #12 (01:21:28) conditional expressions ❓
@@ -78,14 +82,14 @@ Preferensi editor: **VSCode** dengan tambahan ;
 - [ ] #31 (03:52:12) functions 📞
 - [ ] #32 (04:02:50) default arguments 👍
 - [ ] #33 (04:08:56) keyword arguments 🗝️
-- [ ] #34 (04:15:40) *args & **kwargs 📦
+- [ ] #34 (04:15:40) \*args & \*\*kwargs 📦
 - [ ] #35 (04:30:33) iterables 🔂
 - [ ] #36 (04:37:04) membership operators 🔎
 - [ ] #37 (04:45:56) list comprehensions 📃
 - [ ] #38 (04:56:17) match-case statements 📆
 - [ ] #39 (05:02:13) modules 📨
 - [ ] #40 (05:08:51) scope resolution 🔬
-  
+
 ## 🧪 P5: feb-2026-w2
 
 - [ ] #41 (05:14:22) if name == 'main': 📥
@@ -100,7 +104,7 @@ Preferensi editor: **VSCode** dengan tambahan ;
 - [ ] #50 (07:08:04) super() 🔴
 - [ ] #51 (07:21:10) polymorphism 🎭
 - [ ] #52 (07:29:15) duck typing 🦆
-  
+
 ## 🧪 P6: feb-2026-w3
 
 - [ ] #53 (07:33:34) static methods ⚡
